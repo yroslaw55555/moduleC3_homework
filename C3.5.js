@@ -61,8 +61,8 @@ BadDevice.KeyOn();
 TeapotOne.KeyOff();
 
 
-console.log(GenerationNoise.name + "is " + GenerationNoise.showProp());
-console.log(Teapot.name + "is " + Teapot.showProp());
+console.log(BadDevice.name + "is " + BadDevice.showProp());
+console.log(TeapotOne.name + "is " + TeapotOne.showProp());
 
 
 
